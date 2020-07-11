@@ -26,4 +26,4 @@ The resources used when creating the videos can be found in the `resources` fold
 
 Within the `resources` folder there will be sub-folders on a per-video basis. Please use these resources as you study the videos.
 
-Tom, this comment is for you to delete!
+
