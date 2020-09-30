@@ -131,7 +131,7 @@ column_map = {
 
 ### Goal
 
-The WANT for this task is to construct a csv file containing player stats for teh 2019-2020 EPL season
+The WANT for this task is to construct a csv file containing player stats for the 2019-2020 EPL season
 
 We'll do this via a few steps:
 
