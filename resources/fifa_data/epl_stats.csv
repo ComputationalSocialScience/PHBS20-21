@@ -1,0 +1,514 @@
+,name,nationality,clubName,ErrChance,ErrGoal,PossLostP90,OffsideP90
+0,Aaron Lennon,England,Burnley FC,0,0,10.40,0.00
+1,Theo Walcott,England,Everton FC,0,0,15.42,0.69
+2,Pepe Reina,Spain,Aston Villa FC,0,1,10.33,0.00
+3,Łukasz Fabiański,Poland,West Ham United FC,0,3,12.48,0.00
+4,Hugo Lloris,France,Tottenham Hotspur FC,0,2,7.67,0.00
+5,Jan Vertonghen,Belgium,Tottenham Hotspur FC,0,0,13.53,0.00
+6,Erik Pieters,Netherlands,Burnley FC,0,0,14.14,0.00
+7,Ben Foster,England,Watford FC,0,2,17.40,0.00
+8,Adrian Mariappa,Jamaica,Watford FC,0,0,11.87,0.12
+9,Ashley Young,England,Manchester United FC,0,0,19.24,0.00
+10,Shane Long,Republic of Ireland,Southampton FC,0,0,17.96,0.77
+11,Phil Jagielka,England,Sheffield United FC,0,0,7.13,0.00
+12,Leighton Baines,England,Everton FC,0,0,11.22,0.00
+13,Gary Cahill,England,Crystal Palace FC,0,0,7.10,0.00
+14,Kasper Schmeichel,Denmark,Leicester City FC,1,1,6.95,0.00
+15,James Milner,England,Liverpool FC,1,0,13.41,0.10
+16,Tom Heaton,England,Aston Villa FC,0,0,12.93,0.00
+17,David Silva,Spain,Manchester City FC,0,0,12.92,0.14
+18,Sergio Agüero,Argentina,Manchester City FC,0,0,10.13,0.37
+19,Pablo Zabaleta,Argentina,West Ham United FC,0,0,14.21,0.00
+20,Nacho Monreal,Spain,Arsenal FC,0,0,11.00,0.67
+21,Phil Bardsley,Scotland,Burnley FC,0,0,16.05,0.00
+22,Tim Krul,Netherlands,Norwich City FC,0,1,13.97,0.00
+23,Cheikhou Kouyaté,Senegal,Crystal Palace FC,1,0,11.47,0.07
+24,Aaron Cresswell,England,West Ham United FC,2,0,16.97,0.06
+25,Darren Randolph,Republic of Ireland,West Ham United FC,0,0,9.50,0.00
+26,Andy Carroll,England,Newcastle United FC,0,1,17.77,0.87
+27,Maya Yoshida,Japan,Southampton FC,1,0,10.00,0.00
+28,Séamus Coleman,Republic of Ireland,Everton FC,0,1,16.51,0.05
+29,Alexander Tettey,Norway,Norwich City FC,0,0,7.24,0.00
+30,Moussa Sissoko,France,Tottenham Hotspur FC,1,0,9.89,0.07
+31,Wayne Hennessey,Wales,Crystal Palace FC,0,0,18.33,0.00
+32,Jack Stephens,England,Southampton FC,2,1,14.09,0.00
+33,Ayoze Pérez,Spain,Leicester City FC,1,0,14.54,0.32
+34,Andrew Surman,England,AFC Bournemouth,1,0,12.31,0.00
+35,Adam Lallana,England,Liverpool FC,1,0,15.69,0.24
+36,Billy Sharp,England,Sheffield United FC,0,0,11.70,1.04
+37,Dan Gosling,England,AFC Bournemouth,0,0,13.00,0.14
+38,Kurt Zouma,France,Chelsea FC,2,0,10.10,0.04
+39,Lukas Rupp,Germany,Norwich City FC,0,0,12.90,0.00
+40,Jota Peleteiro,Spain,Aston Villa FC,0,0,12.74,0.00
+41,Jay Rodriguez,England,Burnley FC,0,0,12.68,0.99
+42,Danny Rose,England,Newcastle United FC,2,1,14.18,0.00
+43,David Luiz,Brazil,Arsenal FC,0,2,9.86,0.04
+44,Cesar Azpilicueta,Spain,Chelsea FC,0,0,18.76,0.08
+45,Juan Mata,Spain,Manchester United FC,0,0,13.74,0.48
+46,Fernandinho,Brazil,Manchester City FC,0,0,9.46,0.04
+47,Jonny Evans,Northern Ireland,Leicester City FC,4,0,9.39,0.05
+48,Jack Cork,England,Burnley FC,0,0,10.18,0.04
+49,Ryan Bertrand,England,Southampton FC,1,0,17.29,0.04
+50,Ahmed El Mohamady,Egypt,Aston Villa FC,1,0,15.35,0.17
+51,Jack Rodwell,England,Sheffield United FC,0,0,,
+52,Scott Dann,England,Crystal Palace FC,0,0,8.18,0.00
+53,Ki Sungyueng,Korea Republic,Newcastle United FC,0,0,6.62,0.00
+54,Morgan Schneiderlin,France,Everton FC,1,0,8.52,0.00
+55,John Fleck,Scotland,Sheffield United FC,0,0,14.45,0.04
+56,Nemanja Matić,Serbia,Manchester United FC,0,0,11.77,0.00
+57,Ashley Barnes,England,Burnley FC,0,0,12.03,0.86
+58,Neil Taylor,Wales,Aston Villa FC,0,0,9.92,0.00
+59,Robert Snodgrass,Scotland,West Ham United FC,0,0,16.26,0.23
+60,James McArthur,Scotland,Crystal Palace FC,0,0,13.55,0.12
+61,James McCarthy,Republic of Ireland,Crystal Palace FC,0,0,12.17,0.00
+62,Wes Morgan,Jamaica,Leicester City FC,0,0,6.29,0.00
+63,Víctor Camarasa,Spain,Crystal Palace FC,0,0,,
+64,Jordan Henderson,England,Liverpool FC,1,0,15.08,0.00
+65,Ryan Bennett,England,Leicester City FC,0,0,11.28,0.00
+66,Andreas Pereira,Brazil,Manchester United FC,0,0,18.98,0.18
+67,Glenn Murray,England,Brighton & Hove Albion FC,0,0,12.79,1.14
+68,Jonjo Shelvey,England,Newcastle United FC,0,0,15.14,0.05
+69,Fabian Delph,England,Everton FC,0,1,10.59,0.00
+70,Craig Cathcart,Northern Ireland,Watford FC,1,0,7.05,0.00
+71,Christian Benteke,Belgium,Crystal Palace FC,0,0,16.91,0.86
+72,Matty James,England,Leicester City FC,0,0,,
+73,Danny Welbeck,England,Watford FC,0,0,10.14,0.23
+74,Javier Hernández,Mexico,West Ham United FC,0,0,5.05,0.84
+75,Dejan Lovren,Croatia,Liverpool FC,0,0,13.20,0.00
+76,Gylfi Sigurdsson,Iceland,Everton FC,0,0,12.19,0.07
+77,Olivier Giroud,France,Chelsea FC,0,0,11.17,0.81
+78,Jack Wilshere,England,West Ham United FC,0,0,14.57,0.00
+79,Martin Kelly,England,Crystal Palace FC,0,1,12.89,0.00
+80,David De Gea,Spain,Manchester United FC,1,3,5.36,0.00
+81,Henri Lansbury,England,Aston Villa FC,0,0,10.95,0.00
+82,Joel Ward,England,Crystal Palace FC,0,1,14.58,0.00
+83,Ashley Westwood,England,Burnley FC,1,0,15.40,0.03
+84,Kyle Walker,England,Manchester City FC,1,0,12.43,0.12
+85,Junior Stanislas,England,AFC Bournemouth,0,0,15.17,0.13
+86,Alex McCarthy,England,Southampton FC,0,3,12.86,0.00
+87,Ezequiel Schelotto,Italy,Brighton & Hove Albion FC,0,0,18.95,0.25
+88,Tom Cleverley,England,Watford FC,0,0,11.00,0.00
+89,Marc Albrighton,England,Leicester City FC,0,0,20.93,0.11
+90,Andros Townsend,England,Crystal Palace FC,0,0,15.99,0.07
+91,Matěj Vydra,Czech Republic,Burnley FC,0,0,8.53,0.33
+92,Chris Wood,New Zealand,Burnley FC,0,0,10.93,1.25
+93,Connor Wickham,England,Crystal Palace FC,0,0,26.00,1.00
+94,Kevin De Bruyne,Belgium,Manchester City FC,2,0,22.76,0.10
+95,Kevin Long,Republic of Ireland,Burnley FC,0,0,8.65,0.00
+96,Matthew Lowton,England,Burnley FC,0,2,15.89,0.00
+97,Patrick van Aanholt,Netherlands,Crystal Palace FC,1,0,15.06,0.07
+98,Adam Smith,England,AFC Bournemouth,1,0,12.72,0.09
+99,Craig Dawson,England,Watford FC,0,0,9.15,0.00
+100,Simon Moore,England,Sheffield United FC,0,1,15.00,0.00
+101,Ciaran Clark,Republic of Ireland,Newcastle United FC,0,0,5.91,0.00
+102,Danny Drinkwater,England,Aston Villa FC,0,1,13.98,0.00
+103,Shane Duffy,Republic of Ireland,Brighton & Hove Albion FC,0,0,10.16,0.00
+104,Nathaniel Chalobah,England,Watford FC,0,0,13.22,0.00
+105,Joshua King,Norway,AFC Bournemouth,0,0,15.77,0.32
+106,Shkodran Mustafi,Germany,Arsenal FC,0,0,11.95,0.00
+107,Oriol Romeu,Spain,Southampton FC,0,0,11.15,0.05
+108,Phil Jones,England,Manchester United FC,0,1,12.66,0.00
+109,Benjamin Mee,England,Burnley FC,0,2,11.69,0.09
+110,Aaron Mooy,Australia,Brighton & Hove Albion FC,1,0,16.29,0.00
+111,Jed Steer,England,Aston Villa FC,0,0,,
+112,Emiliano Martínez,Argentina,Arsenal FC,1,0,8.88,0.00
+113,Dan Burn,England,Brighton & Hove Albion FC,0,0,18.09,0.09
+114,Andrew Robertson,Scotland,Liverpool FC,1,0,19.68,0.05
+115,Alex Oxlade-Chamberlain,England,Liverpool FC,0,0,15.34,0.12
+116,Wilfried Zaha,Côte d’Ivoire,Crystal Palace FC,0,0,18.55,0.44
+117,Marcos Alonso,Spain,Chelsea FC,0,0,17.11,0.13
+118,Lewis Dunk,England,Brighton & Hove Albion FC,1,0,9.19,0.03
+119,Oliver Norwood,Northern Ireland,Sheffield United FC,1,0,15.47,0.03
+120,Grant Hanley,Scotland,Norwich City FC,1,0,8.78,0.00
+121,Jack Robinson,England,Sheffield United FC,0,0,14.08,0.18
+122,Robbie Brady,Republic of Ireland,Burnley FC,0,0,18.97,0.20
+123,Danny Ings,England,Southampton FC,0,1,14.20,0.39
+124,Eric Dier,England,Tottenham Hotspur FC,0,0,13.09,0.06
+125,Nathan Redmond,England,Southampton FC,0,0,15.80,0.16
+126,Ross Barkley,England,Chelsea FC,0,0,12.23,0.00
+127,Jeff Hendrick,Republic of Ireland,Burnley FC,0,0,12.14,0.19
+128,Harry Kane,England,Tottenham Hotspur FC,0,0,11.75,0.69
+129,Jamie Vardy,England,Leicester City FC,0,0,7.30,0.83
+130,Raheem Sterling,England,Manchester City FC,0,0,14.75,0.41
+131,Ravel Morrison,Jamaica,Sheffield United FC,0,0,,
+132,Conor Coady,England,Wolverhampton Wanderers FC,0,2,7.50,0.00
+133,Paul Pogba,France,Manchester United FC,1,1,16.96,0.15
+134,Harry Maguire,England,Manchester United FC,0,0,9.48,0.16
+135,Nathan Aké,Netherlands,AFC Bournemouth,0,0,6.11,0.11
+136,John Stones,England,Manchester City FC,2,0,5.23,0.08
+137,Jamaal Lascelles,England,Newcastle United FC,0,1,8.01,0.09
+138,Paulo Gazzaniga,Argentina,Tottenham Hotspur FC,0,1,10.39,0.00
+139,Jordon Ibe,England,AFC Bournemouth,0,0,,
+140,Jesús Vallejo,Spain,Wolverhampton Wanderers FC,1,0,15.55,0.00
+141,James Ward-Prowse,England,Southampton FC,1,0,15.76,0.00
+142,Ryan Fredericks,England,West Ham United FC,1,0,15.21,0.00
+143,Ben Davies,Wales,Tottenham Hotspur FC,0,0,17.03,0.06
+144,Michael Keane,England,Everton FC,0,0,9.19,0.00
+145,Paul Dummett,Wales,Newcastle United FC,0,0,11.28,0.00
+146,Luke Shaw,England,Manchester United FC,1,0,11.52,0.21
+147,Jack Grealish,England,Aston Villa FC,0,1,14.42,0.11
+148,Jesse Lingard,England,Manchester United FC,0,0,10.23,0.00
+149,Calum Chambers,England,Arsenal FC,1,0,17.78,0.00
+150,Héctor Bellerín,Spain,Arsenal FC,1,0,13.19,0.07
+151,Andreas Christensen,Denmark,Chelsea FC,0,0,6.32,0.00
+152,Pedro,Spain,Chelsea FC,0,0,12.70,0.00
+153,Sokratis Papastathopoulos,Greece,Arsenal FC,0,1,7.32,0.05
+154,Henrikh Mkhitaryan,Armenia,Arsenal FC,0,0,25.95,0.81
+155,PE Aubameyang,Gabon,Arsenal FC,0,0,11.79,0.58
+156,Ralf Fährmann,Germany,Norwich City FC,0,0,,
+157,Max Meyer,Germany,Crystal Palace FC,0,0,12.07,0.28
+158,Joël Matip,Cameroon,Liverpool FC,0,0,11.91,0.00
+159,Sead Kolašinac,Bosnia and Herzegovina,Arsenal FC,1,0,10.49,0.26
+160,Antonio Rüdiger,Germany,Chelsea FC,0,1,11.31,0.00
+161,Moritz Leitner,Germany,Norwich City FC,1,0,14.45,0.00
+162,Leroy Sané,Germany,Manchester City FC,0,0,,
+163,Sebastian Prödl,Austria,Watford FC,0,0,,
+164,Mateo Kovačić,Croatia,Chelsea FC,1,0,11.98,0.00
+165,Bernd Leno,Germany,Arsenal FC,0,2,7.85,0.00
+166,Son Heungmin,Korea Republic,Tottenham Hotspur FC,1,0,13.10,0.61
+167,Timm Klose,Switzerland,Norwich City FC,0,0,10.46,0.00
+168,Felipe Anderson,Brazil,West Ham United FC,0,0,19.63,0.12
+169,Gerard Deulofeu,Spain,Watford FC,0,0,16.91,0.77
+170,Christian Eriksen,Denmark,Tottenham Hotspur FC,0,0,19.29,0.16
+171,Nabil Bentaleb,Algeria,Newcastle United FC,0,1,8.42,0.00
+172,Pierre Emile Højbjerg,Denmark,Southampton FC,2,0,17.32,0.04
+173,Xherdan Shaqiri,Switzerland,Liverpool FC,0,0,15.42,0.50
+174,Adama Traoré,Spain,Wolverhampton Wanderers FC,2,0,19.68,0.17
+175,Martín Montoya,Spain,Brighton & Hove Albion FC,0,0,16.48,0.19
+176,Dimitri Foulquier,Guadeloupe,Watford FC,0,0,,
+177,Odion Ighalo,Nigeria,Manchester United FC,0,0,14.00,1.00
+178,Isaac Success,Nigeria,Watford FC,0,0,,
+179,Mesut Özil,Germany,Arsenal FC,0,0,12.80,0.37
+180,Claudio Bravo,Chile,Manchester City FC,1,0,7.54,0.00
+181,Gaëtan Bong,Cameroon,Brighton & Hove Albion FC,0,0,,
+182,Nicolás Otamendi,Argentina,Manchester City FC,1,1,6.89,0.00
+183,Diogo Dalot,Portugal,Manchester United FC,0,0,,
+184,Mamadou Sakho,France,Crystal Palace FC,1,1,7.84,0.00
+185,Angelo Ogbonna,Italy,West Ham United FC,1,0,8.20,0.00
+186,Bruno Fernandes,Portugal,Manchester United FC,0,0,22.86,0.15
+187,Roberto Pereyra,Argentina,Watford FC,1,0,12.74,0.32
+188,Adrián,Spain,Liverpool FC,1,2,7.73,0.00
+189,James Tomkins,England,Crystal Palace FC,0,0,8.47,0.05
+190,Mark Noble,England,West Ham United FC,1,0,12.71,0.04
+191,Matt Targett,England,Aston Villa FC,1,0,15.14,0.00
+192,Victor Wanyama,Kenya,Tottenham Hotspur FC,0,0,,
+193,Federico Fernández,Argentina,Newcastle United FC,1,0,11.96,0.07
+194,Marcos Rojo,Argentina,Manchester United FC,0,0,15.75,0.00
+195,Bernard,Brazil,Everton FC,0,0,16.52,0.00
+196,Willian,Brazil,Chelsea FC,0,0,17.28,0.14
+197,Rui Patrício,Portugal,Wolverhampton Wanderers FC,0,2,8.00,0.00
+198,João Moutinho,Portugal,Wolverhampton Wanderers FC,1,0,13.82,0.09
+199,José Holebas,Greece,Watford FC,0,0,19.60,0.00
+200,Toby Alderweireld,Belgium,Tottenham Hotspur FC,2,0,12.02,0.03
+201,Divock Origi,Belgium,Liverpool FC,0,0,16.52,0.00
+202,Riyad Mahrez,Algeria,Manchester City FC,1,0,14.28,0.60
+203,Maty Ryan,Australia,Brighton & Hove Albion FC,2,0,7.40,0.00
+204,Muhamed Bešić,Bosnia and Herzegovina,Sheffield United FC,0,0,9.18,0.00
+205,Daryl Janmaat,Netherlands,Watford FC,0,0,15.84,0.00
+206,Georginio Wijnaldum,Netherlands,Liverpool FC,2,0,7.94,0.03
+207,Serge Aurier,Côte d’Ivoire,Tottenham Hotspur FC,0,0,17.47,0.20
+208,Lucas Digne,France,Everton FC,0,0,21.29,0.09
+209,Christian Atsu,Ghana,Newcastle United FC,0,1,13.39,0.49
+210,Jordan Ayew,Ghana,Crystal Palace FC,0,0,12.53,0.25
+211,Jeffrey Schlupp,Ghana,Crystal Palace FC,0,0,13.04,0.09
+212,Alireza Jahanbakhsh,Iran,Brighton & Hove Albion FC,0,0,20.82,0.30
+213,DeAndre Yedlin,United States,Newcastle United FC,0,0,11.08,0.19
+214,Fabian Schär,Switzerland,Newcastle United FC,0,1,12.97,0.11
+215,Granit Xhaka,Switzerland,Arsenal FC,3,0,10.14,0.00
+216,Josip Drmić,Switzerland,Norwich City FC,1,0,12.59,0.99
+217,Raúl Jiménez,Mexico,Wolverhampton Wanderers FC,1,0,14.39,0.52
+218,Carlos Sánchez,Colombia,West Ham United FC,0,0,9.56,0.00
+219,Isaac Hayden,England,Newcastle United FC,0,0,10.84,0.08
+220,Alex Iwobi,Nigeria,Everton FC,0,1,12.75,0.00
+221,Mohamed Salah,Egypt,Liverpool FC,1,0,14.53,0.62
+222,Dwight Gayle,England,Newcastle United FC,0,0,8.28,0.22
+223,Étienne Capoue,France,Watford FC,0,0,11.73,0.00
+224,Erik Lamela,Argentina,Tottenham Hotspur FC,0,0,16.07,0.07
+225,Harry Winks,England,Tottenham Hotspur FC,1,0,9.66,0.00
+226,Patrick Roberts,England,Norwich City FC,0,0,,
+227,Jorginho,Italy,Chelsea FC,2,0,12.20,0.00
+228,Christian Fuchs,Austria,Leicester City FC,0,1,17.77,0.12
+229,Jannik Vestergaard,Denmark,Southampton FC,1,0,13.65,0.00
+230,Roberto Firmino,Brazil,Liverpool FC,1,0,12.61,0.18
+231,Mario Vrančić,Bosnia and Herzegovina,Norwich City FC,1,1,18.26,0.14
+232,Sadio Mané,Senegal,Liverpool FC,2,0,14.83,0.46
+233,Valentino Lazaro,Austria,Newcastle United FC,0,0,11.22,0.00
+234,Willy Caballero,Argentina,Chelsea FC,0,0,8.20,0.00
+235,Naby Keïta,Guinea,Liverpool FC,0,0,11.05,0.10
+236,Takumi Minamino,Japan,Liverpool FC,0,0,12.28,0.00
+237,Djibril Sidibé,France,Everton FC,0,0,16.56,0.10
+238,Fabinho,Brazil,Liverpool FC,1,0,10.15,0.00
+239,Alexandre Lacazette,France,Arsenal FC,0,0,11.64,0.62
+240,Anthony Martial,France,Manchester United FC,0,0,11.39,0.41
+241,Abdoulaye Doucouré,France,Watford FC,0,0,14.32,0.17
+242,Jean-Philippe Gbamin,Côte d’Ivoire,Everton FC,0,0,18.00,0.00
+243,Allan Saint-Maximin,France,Newcastle United FC,0,0,15.76,0.14
+244,Teemu Pukki,Finland,Norwich City FC,0,0,6.90,0.53
+245,Virgil van Dijk,Netherlands,Liverpool FC,1,1,9.55,0.03
+246,Ondrej Duda,Slovakia,Norwich City FC,0,0,13.58,0.24
+247,Benjamin Mendy,France,Manchester City FC,1,2,14.50,0.06
+248,Michy Batshuayi,Belgium,Chelsea FC,0,0,14.40,2.80
+249,Nampalys Mendy,France,Leicester City FC,0,0,8.97,0.00
+250,Neal Maupay,France,Brighton & Hove Albion FC,0,0,10.82,0.49
+251,Georges N'Koudou,France,Tottenham Hotspur FC,0,0,,
+252,N'Golo Kanté,France,Chelsea FC,0,1,13.97,0.00
+253,Vicente Guaita,Spain,Crystal Palace FC,1,1,12.77,0.00
+254,Javier Manquillo,Spain,Newcastle United FC,0,0,12.72,0.05
+255,Borja Bastón,Spain,Aston Villa FC,0,0,,
+256,Aymeric Laporte,France,Manchester City FC,1,0,7.17,0.00
+257,Jonny Castro,Spain,Wolverhampton Wanderers FC,1,1,12.83,0.06
+258,Yoshinori Mutō,Japan,Newcastle United FC,0,0,8.69,1.31
+259,André Gomes,Portugal,Everton FC,0,0,11.90,0.00
+260,Callum Robinson,Republic of Ireland,Sheffield United FC,0,0,10.25,0.14
+261,Ørjan Nyland,Norway,Aston Villa FC,1,0,13.41,0.00
+262,Emil Krafth,Sweden,Newcastle United FC,0,0,11.31,0.00
+263,Andrii Yarmolenko,Ukraine,West Ham United FC,0,0,12.22,0.73
+264,Fred,Brazil,Manchester United FC,0,0,14.38,0.05
+265,Jan Bednarek,Poland,Southampton FC,1,3,12.19,0.00
+266,Martin Dúbravka,Slovakia,Newcastle United FC,0,6,12.92,0.00
+267,Dennis Praet,Belgium,Leicester City FC,1,0,12.26,0.08
+268,Leander Dendoncker,Belgium,Wolverhampton Wanderers FC,1,1,8.87,0.00
+269,Luka Milivojević,Serbia,Crystal Palace FC,4,0,14.75,0.04
+270,Youri Tielemans,Belgium,Leicester City FC,0,0,15.18,0.04
+271,Björn Engels,Belgium,Aston Villa FC,2,1,6.97,0.06
+272,Christian Kabasele,Belgium,Watford FC,0,0,7.72,0.00
+273,Arthur Masuaku,Congo DR,West Ham United FC,0,0,18.08,0.00
+274,Roberto Jiménez,Spain,West Ham United FC,0,1,15.62,0.00
+275,Baye Oumar Niasse,Senegal,Everton FC,0,0,,
+276,Cenk Tosun,Turkey,Crystal Palace FC,0,0,11.39,0.39
+277,Anwar El Ghazi,Netherlands,Aston Villa FC,1,0,14.28,0.52
+278,Jaïro Riedewald,Netherlands,Crystal Palace FC,1,0,15.10,0.00
+279,Richairo Živković,Netherlands,Sheffield United FC,0,0,7.57,0.00
+280,Jürgen Locadia,Netherlands,Brighton & Hove Albion FC,0,0,,
+281,Jetro Willems,Netherlands,Newcastle United FC,1,0,13.10,0.06
+282,Davy Pröpper,Netherlands,Brighton & Hove Albion FC,1,2,13.49,0.00
+283,Christoph Zimmermann,Germany,Norwich City FC,1,0,9.37,0.00
+284,Dennis Srbeny,Germany,Norwich City FC,0,0,,
+285,Pascal Groß,Germany,Brighton & Hove Albion FC,0,0,17.93,0.40
+286,Marco Stiepermann,Germany,Norwich City FC,0,0,14.19,0.00
+287,Tom Trybull,Germany,Norwich City FC,0,0,5.63,0.16
+288,Jonathan Kodjia,Côte d’Ivoire,Aston Villa FC,0,0,14.60,0.00
+289,Willy Boly,Côte d’Ivoire,Wolverhampton Wanderers FC,1,0,9.50,0.05
+290,Sébastien Haller,France,West Ham United FC,0,0,15.23,0.72
+291,Ibrahim Amadou,France,Norwich City FC,1,0,6.19,0.00
+292,Romain Saïss,Morocco,Wolverhampton Wanderers FC,3,0,12.61,0.06
+293,Sofiane Boufal,Morocco,Southampton FC,0,0,23.69,0.23
+294,Lys Mousset,France,Sheffield United FC,0,0,13.52,1.17
+295,Leandro Trossard,Belgium,Brighton & Hove Albion FC,0,0,15.87,0.18
+296,Fikayo Tomori,England,Chelsea FC,2,0,11.28,0.07
+297,Alisson,Brazil,Liverpool FC,1,1,4.42,0.00
+298,Emerson,Italy,Chelsea FC,0,0,17.56,0.18
+299,Joelinton,Brazil,Newcastle United FC,0,0,14.10,0.67
+300,Lucas Moura,Brazil,Tottenham Hotspur FC,0,0,16.14,0.20
+301,Ederson,Brazil,Manchester City FC,3,3,3.87,0.00
+302,Stuart Armstrong,Scotland,Southampton FC,1,0,13.32,0.21
+303,Michael McGovern,Northern Ireland,Norwich City FC,1,0,11.96,0.00
+304,John McGinn,Scotland,Aston Villa FC,0,0,12.12,0.00
+305,Kenny McLean,Scotland,Norwich City FC,0,0,15.08,0.03
+306,Ignacio Pussetto,Argentina,Watford FC,0,0,,
+307,Manuel Lanzini,Argentina,West Ham United FC,0,0,12.87,0.26
+308,Jóhann Berg Guðmundsson,Iceland,Burnley FC,0,0,11.16,0.14
+309,Steven Bergwijn,Netherlands,Tottenham Hotspur FC,0,0,10.49,0.00
+310,David McGoldrick,Republic of Ireland,Sheffield United FC,0,0,13.62,0.59
+311,Leon Clarke,England,Sheffield United FC,0,0,,
+312,Dale Stephens,England,Brighton & Hove Albion FC,2,0,9.78,0.00
+313,Simon Francis,England,AFC Bournemouth,0,0,13.45,0.00
+314,Troy Deeney,England,Watford FC,0,0,17.20,0.49
+315,Charlie Daniels,England,AFC Bournemouth,1,0,11.34,0.00
+316,Matt Ritchie,Scotland,Newcastle United FC,1,0,17.30,0.00
+317,Michail Antonio,England,West Ham United FC,0,0,18.34,0.61
+318,Andre Gray,England,Watford FC,0,0,12.46,0.73
+319,Callum Wilson,England,AFC Bournemouth,0,0,12.02,1.05
+320,Steve Cook,England,AFC Bournemouth,1,0,10.49,0.04
+321,Kieron Freeman,Wales,Sheffield United FC,0,0,,
+322,Ryan Fraser,Scotland,AFC Bournemouth,0,0,16.10,0.05
+323,Matt Doherty,Republic of Ireland,Wolverhampton Wanderers FC,2,0,17.33,0.10
+324,James Tarkowski,England,Burnley FC,4,0,11.29,0.08
+325,John Lundstram,England,Sheffield United FC,1,0,12.17,0.26
+326,Charlie Taylor,England,Burnley FC,0,1,17.86,0.09
+327,Will Hughes,England,Watford FC,0,0,13.01,0.04
+328,Nick Pope,England,Burnley FC,0,1,16.77,0.00
+329,Sam Byram,England,Norwich City FC,0,0,13.44,0.07
+330,Jack O'Connell,England,Sheffield United FC,0,1,15.53,0.06
+331,Ben Osborn,England,Sheffield United FC,0,0,13.91,0.15
+332,Tyrone Mings,England,Aston Villa FC,2,3,9.98,0.06
+333,Solomon March,England,Brighton & Hove Albion FC,2,0,18.38,0.15
+334,Joe Gomez,England,Liverpool FC,1,0,12.20,0.00
+335,Demarai Gray,England,Leicester City FC,0,0,17.02,0.44
+336,Lewis Cook,England,AFC Bournemouth,1,0,14.92,0.00
+337,Philip Billing,Denmark,AFC Bournemouth,0,0,15.28,0.07
+338,Jack Stacey,England,AFC Bournemouth,1,0,15.16,0.05
+339,David Martin,England,West Ham United FC,0,1,13.65,0.00
+340,Chris Basham,England,Sheffield United FC,0,1,13.80,0.14
+341,Conor Hourihane,Republic of Ireland,Aston Villa FC,0,0,12.52,0.23
+342,George Baldock,England,Sheffield United FC,2,1,12.71,0.29
+343,John Egan,Republic of Ireland,Sheffield United FC,3,1,7.79,0.03
+344,Luke Freeman,England,Sheffield United FC,0,0,16.25,0.00
+345,Jordan Pickford,England,Everton FC,2,4,12.74,0.00
+346,Dele Alli,England,Tottenham Hotspur FC,2,0,16.28,0.29
+347,Kortney Hause,England,Aston Villa FC,3,1,12.83,0.05
+348,James Maddison,England,Leicester City FC,1,0,18.56,0.14
+349,Josh Brownhill,England,Burnley FC,0,0,8.83,0.00
+350,Oliver McBurnie,Scotland,Sheffield United FC,0,0,14.70,0.17
+351,Adam Webster,England,Brighton & Hove Albion FC,1,1,12.34,0.00
+352,Victor Lindelof,Sweden,Manchester United FC,0,0,8.99,0.00
+353,João Cancelo,Portugal,Manchester City FC,0,0,13.75,0.00
+354,Rúben Neves,Portugal,Wolverhampton Wanderers FC,1,0,13.56,0.00
+355,Daniel Podence,Portugal,Wolverhampton Wanderers FC,0,0,15.73,0.95
+356,Bernardo Silva,Portugal,Manchester City FC,0,0,11.23,0.09
+357,Cédric,Portugal,Arsenal FC,0,0,16.16,0.00
+358,Ricardo Pereira,Portugal,Leicester City FC,0,0,19.14,0.00
+359,Adam Masina,Italy,Watford FC,0,0,20.84,0.10
+360,Lucas Torreira,Uruguay,Arsenal FC,0,0,9.07,0.06
+361,Florian Lejeune,France,Newcastle United FC,0,2,14.70,0.00
+362,Diego Rico,Spain,AFC Bournemouth,0,0,22.32,0.08
+363,Dani Ceballos,Spain,Arsenal FC,1,0,14.46,0.00
+364,Marvelous Nakamba,Zimbabwe,Aston Villa FC,2,1,8.39,0.00
+365,Diogo Jota,Portugal,Wolverhampton Wanderers FC,0,0,16.41,0.12
+366,Eric Bailly,Côte d’Ivoire,Manchester United FC,0,0,6.08,0.00
+367,Ilkay Gündogan,Germany,Manchester City FC,0,0,9.41,0.09
+368,Enda Stevens,Republic of Ireland,Sheffield United FC,1,2,17.27,0.05
+369,Dominic Solanke,England,AFC Bournemouth,1,0,15.39,0.22
+370,Che Adams,England,Southampton FC,0,0,13.27,0.81
+371,Nicolas Pépé,Côte d’Ivoire,Arsenal FC,0,0,17.55,0.18
+372,Mason Holgate,England,Everton FC,0,0,8.15,0.05
+373,Angeliño,Spain,Manchester City FC,0,0,23.25,0.00
+374,Florin Andone,Romania,Brighton & Hove Albion FC,0,0,,
+375,Ainsley Maitland-Niles,England,Arsenal FC,1,0,15.71,0.00
+376,Giovani Lo Celso,Argentina,Tottenham Hotspur FC,0,0,17.68,0.00
+377,Emiliano Buendía,Argentina,Norwich City FC,0,2,22.65,0.07
+378,Ruben Loftus-Cheek,England,Chelsea FC,0,0,8.34,0.00
+379,Trezeguet,Egypt,Aston Villa FC,0,0,13.20,0.23
+380,Kieran Tierney,Scotland,Arsenal FC,1,0,15.61,0.00
+381,Kepa Arrizabalaga,Spain,Chelsea FC,1,0,6.06,0.00
+382,Wilfred Ndidi,Nigeria,Leicester City FC,2,1,10.36,0.04
+383,Frédéric Guilbert,France,Aston Villa FC,1,0,18.87,0.09
+384,Femenía Far,Spain,Watford FC,0,0,13.62,0.04
+385,Dominic Calvert-Lewin,England,Everton FC,0,0,12.04,0.44
+386,Yerry Mina,Colombia,Everton FC,1,0,9.50,0.08
+387,Harry Wilson,Wales,AFC Bournemouth,0,0,12.98,0.05
+388,Bernardo,Brazil,Brighton & Hove Albion FC,0,0,18.27,0.53
+389,Oleksandr Zinchenko,Ukraine,Manchester City FC,0,1,13.16,0.07
+390,Ben Godfrey,England,Norwich City FC,2,0,7.97,0.00
+391,Gabriel Jesus,Brazil,Manchester City FC,0,0,8.13,0.80
+392,Rob Holding,England,Arsenal FC,0,0,8.83,0.00
+393,Mbwana Samatta,Tanzania,Aston Villa FC,0,0,9.42,0.77
+394,Sander Berge,Norway,Sheffield United FC,0,0,11.39,0.10
+395,Albian Ajeti,Switzerland,West Ham United FC,0,0,7.56,1.38
+396,Kevin Danso,Austria,Southampton FC,0,0,19.96,0.00
+397,Nathan Holland,England,West Ham United FC,0,0,,
+398,Trent Alexander-Arnold,England,Liverpool FC,2,1,29.33,0.08
+399,Timothy Fosu-Mensah,Netherlands,Manchester United FC,0,0,10.00,0.67
+400,Patrick Cutrone,Italy,Wolverhampton Wanderers FC,0,0,12.94,1.23
+401,Jefferson Lerma,Colombia,AFC Bournemouth,1,0,12.23,0.04
+402,Kelechi Iheanacho,Nigeria,Leicester City FC,0,0,12.92,0.85
+403,Wesley,Brazil,Aston Villa FC,0,0,9.80,0.70
+404,Tomáš Souček,Czech Republic,West Ham United FC,0,0,11.32,0.00
+405,Onel Hernández,Cuba,Norwich City FC,0,0,13.61,0.52
+406,Ben Chilwell,England,Leicester City FC,2,0,21.94,0.04
+407,Sam Surridge,England,AFC Bournemouth,0,0,,
+408,Pablo Fornals,Spain,West Ham United FC,0,0,13.22,0.29
+409,Marcus Rashford,England,Manchester United FC,0,0,14.34,0.44
+410,Tammy Abraham,England,Chelsea FC,0,0,11.22,0.94
+411,Christian Pulisic,United States,Chelsea FC,0,0,17.61,0.15
+412,Axel Tuanzebe,England,Manchester United FC,0,1,7.17,0.00
+413,Çağlar Söyüncü,Turkey,Leicester City FC,1,0,8.27,0.03
+414,Arnaut Danjuma,Netherlands,AFC Bournemouth,1,0,14.05,0.72
+415,Dean Henderson,England,Sheffield United FC,0,1,16.67,0.00
+416,Issa Diop,France,West Ham United FC,1,1,7.61,0.04
+417,Ismaïla Sarr,Senegal,Watford FC,0,0,15.75,0.53
+418,Yves Bissouma,Mali,Brighton & Hove Albion FC,0,0,12.56,0.00
+419,Mason Mount,England,Chelsea FC,0,0,14.31,0.13
+420,Scott McTominay,Scotland,Manchester United FC,1,1,14.59,0.00
+421,Moise Kean,Italy,Everton FC,1,0,12.61,0.43
+422,Nathan Tella,England,Southampton FC,0,0,,
+423,Emile Smith-Rowe,England,Arsenal FC,0,0,11.13,0.00
+424,Eddie Nketiah,England,Arsenal FC,0,0,11.25,0.42
+425,Reiss Nelson,England,Arsenal FC,0,0,12.80,0.58
+426,Joe Willock,England,Arsenal FC,1,0,14.02,0.00
+427,Angus Gunn,England,Southampton FC,0,0,14.30,0.00
+428,Rodri,Spain,Manchester City FC,0,0,8.76,0.00
+429,Ezri Konsa,England,Aston Villa FC,2,1,9.69,0.05
+430,James Justin,England,Leicester City FC,0,0,17.20,0.09
+431,Daniel James,Wales,Manchester United FC,0,0,13.67,0.08
+432,Jack Simpson,England,AFC Bournemouth,0,1,14.00,0.00
+433,Keinan Davis,England,Aston Villa FC,0,0,13.21,0.50
+434,Hamza Choudhury,England,Leicester City FC,0,0,9.53,0.00
+435,Mark Travers,Republic of Ireland,AFC Bournemouth,0,1,10.00,0.00
+436,Ruben Vinagre,Portugal,Wolverhampton Wanderers FC,0,0,19.70,0.00
+437,Gedson,Portugal,Tottenham Hotspur FC,0,0,,
+438,Quina,Portugal,Watford FC,0,0,,
+439,Kyle Walker-Peters,England,Southampton FC,1,0,16.86,0.19
+440,Tahith Chong,Netherlands,Manchester United FC,0,0,,
+441,David Brooks,Wales,AFC Bournemouth,0,0,15.50,0.00
+442,Japhet Tanganga,England,Tottenham Hotspur FC,1,1,10.95,0.00
+443,Ryan Sessegnon,England,Tottenham Hotspur FC,0,0,17.15,0.53
+444,Declan Rice,England,West Ham United FC,0,0,8.60,0.05
+445,Yan Valery,France,Southampton FC,0,2,20.92,0.34
+446,Tom Davies,England,Everton FC,0,0,11.59,0.05
+447,Aaron Ramsdale,England,AFC Bournemouth,1,0,12.38,0.00
+448,George Hirst,England,Leicester City FC,0,0,,
+449,Richarlison,Brazil,Everton FC,0,0,15.72,0.50
+450,Douglas Luiz,Brazil,Aston Villa FC,0,1,10.29,0.00
+451,Tanguy Ndombèlé,France,Tottenham Hotspur FC,0,0,14.55,0.00
+452,Jarrod Bowen,England,West Ham United FC,0,0,14.95,0.10
+453,Bruno Jordão,Portugal,Wolverhampton Wanderers FC,0,0,,
+454,Jamal Lewis,Northern Ireland,Norwich City FC,1,0,14.53,0.08
+455,Todd Cantwell,England,Norwich City FC,0,1,13.53,0.11
+456,Jake Vokins,England,Southampton FC,0,0,18.00,0.00
+457,Phil Foden,England,Manchester City FC,0,0,12.42,0.10
+458,Harvey Barnes,England,Leicester City FC,0,0,13.47,0.17
+459,Oliver Skipp,England,Tottenham Hotspur FC,0,0,,
+460,William Smallbone,Republic of Ireland,Southampton FC,0,0,10.56,0.00
+461,Aaron Connolly,Republic of Ireland,Brighton & Hove Albion FC,0,0,9.05,1.00
+462,Adam Idah,Republic of Ireland,Norwich City FC,0,0,13.56,0.41
+463,Mattéo Guendouzi,France,Arsenal FC,2,0,10.35,0.00
+464,Morgan Gibbs-White,England,Wolverhampton Wanderers FC,0,0,20.32,0.00
+465,Callum Hudson-Odoi,England,Chelsea FC,1,0,19.14,0.32
+466,Angel Gomes,England,Manchester United FC,0,0,,
+467,Alexis Mac Allister,Argentina,Brighton & Hove Albion FC,0,0,15.38,0.25
+468,Reece James,England,Chelsea FC,0,0,17.34,0.06
+469,Lloyd Kelly,England,AFC Bournemouth,0,0,10.58,0.00
+470,Steven Alzate,Colombia,Brighton & Hove Albion FC,0,0,12.86,0.23
+471,Aaron Wan-Bissaka,England,Manchester United FC,0,0,16.50,0.03
+472,Ben Johnson,England,West Ham United FC,0,0,18.67,0.00
+473,Michael Obafemi,Republic of Ireland,Southampton FC,0,0,12.31,0.41
+474,Chris Mepham,Wales,AFC Bournemouth,0,1,8.11,0.10
+475,Sean Longstaff,England,Newcastle United FC,1,1,13.64,0.00
+476,Juan Foyth,Argentina,Tottenham Hotspur FC,0,0,,
+477,Moussa Djénepo,Mali,Southampton FC,0,0,17.03,0.29
+478,Pedro Neto,Portugal,Wolverhampton Wanderers FC,0,0,17.60,0.39
+479,Eric Garcia,Spain,Manchester City FC,0,0,5.91,0.00
+480,Indiana Vassilev,United States,Aston Villa FC,0,0,,
+481,Max Kilman,England,Wolverhampton Wanderers FC,0,0,12.72,0.00
+482,Max Aarons,England,Norwich City FC,1,0,14.55,0.08
+483,Brandon Williams,England,Manchester United FC,0,0,13.08,0.09
+484,James Garner,England,Manchester United FC,0,0,,
+485,Curtis Jones,England,Liverpool FC,0,0,16.97,0.00
+486,Troy Parrott,Republic of Ireland,Tottenham Hotspur FC,0,0,,
+487,Faustino Anjorin,England,Chelsea FC,0,0,,
+488,Billy Gilmour,Scotland,Chelsea FC,0,0,12.25,0.00
+489,Tariq Lamptey,England,Brighton & Hove Albion FC,0,0,13.33,0.00
+490,Thomas Doyle,England,Manchester City FC,0,0,,
+491,Anthony Gordon,England,Everton FC,0,0,11.89,0.21
+492,Luke Thomas,England,Leicester City FC,0,0,16.79,0.00
+493,Gabriel Martinelli,Brazil,Arsenal FC,0,0,17.15,0.27
+494,Neco Williams,Wales,Liverpool FC,0,0,20.83,0.00
+495,Jeremy Ngakia,England,West Ham United FC,0,0,17.96,0.21
+496,Matthew Longstaff,England,Newcastle United FC,0,0,9.89,0.00
+497,Bukayo Saka,England,Arsenal FC,0,0,14.89,0.51
+498,Dwight McNeil,England,Burnley FC,0,0,16.20,0.00
+499,Kelland Watts,England,Newcastle United FC,0,0,,
+500,Harvey Elliot,England,Liverpool FC,0,0,,
+501,Mason Greenwood,England,Manchester United FC,1,0,8.78,0.21
+502,Armando Broja,Albania,Chelsea FC,0,0,,
+503,João Pedro,Brazil,Watford FC,0,0,,
+504,Jarrad Branthwaite,England,Everton FC,0,0,10.23,0.00
+505,Josh Martin,England,Norwich City FC,0,0,,
+506,Pablo Marí,Spain,Arsenal FC,0,0,11.05,0.00
+507,Davinson Sánchez,Colombia,Tottenham Hotspur FC,4,0,8.96,0.04
+508,Miguel Almirón,Paraguay,Newcastle United FC,0,0,11.54,0.71
+509,Fabián Balbuena,Paraguay,West Ham United FC,0,3,11.51,0.00
+510,Tyrick Mitchell,England,Crystal Palace FC,0,0,14.45,0.00
+511,Brandon Pierrick,England,Crystal Palace FC,0,0,,
+512,Max Thompson,England,Burnley FC,0,0,,
